@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+
+}
+nav {
+    background: darkgray;
+    overflow: hidden;
+}
+.menu {
+    text-align: center;
+
+}
+.menu li {
+    display: inline-block;
+}
+.menu a {
+    padding: 45px;
+    color: blue;
+    text-decoration: none;
+    display: block;
+}
+.menu a:hover {
+    background: chocolate;
+}
+
+.cabecera {
+    background: dimgrey;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 50%;
+
+}
+
+.iconos {
+    padding: 45px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    height: 50%;
+    size: 50px;
+    font-size: 20px;
+
+}
+
+.footer {
+    background: darkgrey;
+    
+}
+p {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 20px;
+
+}
+.titulo {
+    background: darkcyan;
+    
+}
+p {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 20px;
+
+}
+
+.encabezado {
+    background: darkgrey;
+    
+}
+p {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 20px;
+
+}
